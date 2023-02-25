@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Sarthak-yellow)](https://stackoverflow.com/users/21198364/sarthak-kumar)
 
 I'm
-Experienced Quality Engineer (QEA) with excellent communication skills. Clear understanding of Frontend, Backend and Database concepts. An excellent teamplayer with good interpersonal skills and actively looking forward to work for a FullStack Web Developer role. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS/Azure),database(MongoDB,Mysql)
+Experienced Quality Engineer (QEA) with excellent communication skills. Clear understanding of Frontend, Backend and Database concepts. An excellent teamplayer with good interpersonal skills and actively looking forward to work for a FullStack Web Developer role. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS/Azure) and database(MongoDB,Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/sarthakkumar007/count.svg)
@@ -67,7 +67,7 @@ Languages and Tools:
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
     </a>
 
-![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=sarthakkumar007&theme=react-dark&area=true)
 <!--
 **Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
