@@ -7,14 +7,14 @@ I'm
 Experienced Quality Engineer (QEA) with excellent communication skills. Clear understanding of Frontend, Backend and Database concepts. An excellent teamplayer with good interpersonal skills and actively looking forward to work for a FullStack Web Developer role. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS/Azure),database(MongoDB,Mysql)
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
-
+![Visitor Count](https://profile-counter.glitch.me/sarthakkumar007/count.svg)
+<!--
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aakashdeveloper&column=7"/>
   </a>
-</div>
+</div> -->
 
 Languages and Tools: 
 
